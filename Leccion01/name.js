@@ -1,3 +1,3 @@
-var nombre ="hola soy Alejandra ";
+var nombre ="hola bienvenidos a JavaScript";
 
 console.log(nombre); 
