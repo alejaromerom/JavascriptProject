@@ -14,4 +14,10 @@ x = nombre  + (2 + 4);
 console.log(x); 
 
 x = 2 + 4 + nombre; 
-console.log(x)
+console.log(x);
+
+
+
+
+
+
