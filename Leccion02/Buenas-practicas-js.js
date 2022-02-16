@@ -42,3 +42,5 @@ let ruptura = 10;
 
 
 
+
+
